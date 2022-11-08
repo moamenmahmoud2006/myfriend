@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343793849189",
+    "project_id": "myfriend-f9aeb",
+    "storage_bucket": "myfriend-f9aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343793849189:android:14979a28845bb57d83878c",
+        "android_client_info": {
+          "package_name": "com.codestudioapps.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343793849189-bf739kdeups71cvmt11vj8cmbgnoosm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfICRjFdHrxXLnIgMkl0qcnIgCfepQiiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343793849189-bf739kdeups71cvmt11vj8cmbgnoosm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
